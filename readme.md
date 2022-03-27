@@ -1,4 +1,4 @@
-É um bot para bombcrypto que roda apenas para um navegador, é preciso deixar o navegador aberto e em fullscreen.
+É um bot para bombcrypto que roda apenas para um navegador.
 
 Primeiro passo é instalar o Autohotkey:
 
